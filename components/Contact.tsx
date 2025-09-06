@@ -99,21 +99,21 @@ const Contact = () => {
                   <div className="w-12 h-12 bg-primary-100 rounded-lg flex items-center justify-center">
                     <Mail className="w-5 h-5 text-primary-600" />
                   </div>
-                  <span>your.email@example.com</span>
+                  <span>abhi.cse7.bu@gmail.com</span>
                 </div>
                 
                 <div className="flex items-center gap-4 text-gray-700">
                   <div className="w-12 h-12 bg-primary-100 rounded-lg flex items-center justify-center">
                     <Phone className="w-5 h-5 text-primary-600" />
                   </div>
-                  <span>+1 (555) 123-4567</span>
+                  <span>01326367787</span>
                 </div>
                 
                 <div className="flex items-center gap-4 text-gray-700">
                   <div className="w-12 h-12 bg-primary-100 rounded-lg flex items-center justify-center">
                     <MapPin className="w-5 h-5 text-primary-600" />
                   </div>
-                  <span>Your City, Country</span>
+                  <span>Barisal, Bangladesh</span>
                 </div>
               </div>
 
